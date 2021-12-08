@@ -34,14 +34,3 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 </p>
-
-## 職務経歴詳細
-
-### opzt 株式会社（2020/04〜2020/11）
-
-- ドコモショップスタッフ（業務）
-  - フロアスタッフ
-  - 新規契約、契約変更、機種変更、解約などの手続き
-  - d カードや、docomo 光、d サービスなどの訴求、手続き
-  - スマホやガラケーの操作方法の説明
-  - イベントの運営
