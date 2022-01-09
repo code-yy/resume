@@ -14,7 +14,7 @@
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/utopia300" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Utopia300-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/utopia300" target="_blank"><img alt="Github" src="https://img.shields.io/badge/code-yy-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/yuto_yy_76" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@yuto_yy_76-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://zenn.dev/yuto76" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/yuto76-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
