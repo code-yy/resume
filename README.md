@@ -6,7 +6,7 @@
 | -------- | ------------------------- |
 | 氏名     | 吉野 悠人（Yoshino Yuto） |
 | 生年月日 | 2001/11/24                |
-| Twitter  | yuto_yy_76                |
+| Twitter  | codeyy_dev                |
 | Zenn     | yuto76                    |
 
 ---
@@ -15,7 +15,7 @@
 
 <p>
 <a href="https://github.com/code-yy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/codeyy-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/yuto_yy_76" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@yuto_yy_76-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/codeyy_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@codeyy_dev-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://zenn.dev/yuto76" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/yuto76-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
 
